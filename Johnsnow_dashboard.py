@@ -4,7 +4,7 @@ from streamlit_folium import st_folium
 import json
 
 st.set_page_config(page_title="Cholera Death Map", layout="wide")
-st.title("Cholera Death Dashboard (GeoJSON Version)")
+st.title("Cholera Death Dashboard")
 
 # ------------------------------
 # 1. LOAD GEOJSON DATA
